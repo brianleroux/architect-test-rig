@@ -3,11 +3,11 @@
     "start": "npx sandbox"
   },
   "dependencies": {
-    "@architect/asap": "^5.0.0-RC.0",
-    "@architect/functions": "^5.2.4-RC.0"
+    "@architect/asap": "^7.0.10",
+    "@architect/functions": "^8.1.9"
   },
   "devDependencies": {
-    "@architect/sandbox": "^5.3.6-RC.0",
-    "@begin/data": "^4.0.2-RC.0"
+    "@architect/sandbox": "^8.0.0-RC.2",
+    "@begin/data": "^5.0.5"
   }
 }
